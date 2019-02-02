@@ -1,0 +1,68 @@
+D:\04PI sample\Continue\DMC_01\obj\Debug\ResolveAssemblyReference.cache
+D:\04PI sample\Continue\DMC_01\obj\Debug\DMC_01.Form1.resources
+D:\04PI sample\Continue\DMC_01\obj\Debug\DMC_01.Properties.Resources.resources
+D:\04PI sample\Continue\DMC_01\obj\Debug\DMC_01.csproj.GenerateResource.Cache
+D:\04PI sample\Continue\DMC_01\bin\Debug\DMC_01.exe
+D:\04PI sample\Continue\DMC_01\bin\Debug\DMC_01.pdb
+D:\04PI sample\Continue\DMC_01\obj\Debug\DMC_01.exe
+D:\04PI sample\Continue\DMC_01\obj\Debug\DMC_01.pdb
+D:\04PI sample\Continue\Continue_C#\obj\Debug\DMC_01.exe
+D:\04PI sample\Continue\Continue_C#\obj\Debug\DMC_01.pdb
+D:\04PI sample\Continue\Continue_C#\bin\Debug\DMC_01.exe
+D:\04PI sample\Continue\Continue_C#\bin\Debug\DMC_01.pdb
+D:\04PI sample\Continue\Continue_C#\obj\Debug\ResolveAssemblyReference.cache
+D:\04PI sample\Continue\Continue_C#\obj\Debug\DMC_01.Form1.resources
+D:\04PI sample\Continue\Continue_C#\obj\Debug\DMC_01.Properties.Resources.resources
+D:\04PI sample\Continue\Continue_C#\obj\Debug\DMC_01.csproj.GenerateResource.Cache
+D:\04PI sample\Torque_mode\Torque_mode_C#\obj\Debug\DMC_01.exe
+D:\04PI sample\Torque_mode\Torque_mode_C#\obj\Debug\DMC_01.pdb
+D:\04PI sample\Torque_mode\Torque_mode_C#\obj\Debug\ResolveAssemblyReference.cache
+D:\04PI sample\Torque_mode\Torque_mode_C#\obj\Debug\DMC_01.Form1.resources
+D:\04PI sample\Torque_mode\Torque_mode_C#\obj\Debug\DMC_01.Properties.Resources.resources
+D:\04PI sample\Torque_mode\Torque_mode_C#\obj\Debug\DMC_01.csproj.GenerateResource.Cache
+D:\04PI sample\Torque_mode\Torque_mode_C#\bin\Debug\DMC_01.exe
+D:\04PI sample\Torque_mode\Torque_mode_C#\bin\Debug\DMC_01.pdb
+D:\04PI sample\Velocity_mode\Velocity_mode_C#\obj\Debug\DMC_01.exe
+D:\04PI sample\Velocity_mode\Velocity_mode_C#\obj\Debug\DMC_01.pdb
+D:\04PI sample\Velocity_mode\Velocity_mode_C#\bin\Debug\DMC_01.exe
+D:\04PI sample\Velocity_mode\Velocity_mode_C#\bin\Debug\DMC_01.pdb
+D:\04PI sample\Velocity_mode\Velocity_mode_C#\obj\Debug\ResolveAssemblyReference.cache
+D:\04PI sample\Velocity_mode\Velocity_mode_C#\obj\Debug\DMC_01.Form1.resources
+D:\04PI sample\Velocity_mode\Velocity_mode_C#\obj\Debug\DMC_01.Properties.Resources.resources
+D:\04PI sample\Velocity_mode\Velocity_mode_C#\obj\Debug\DMC_01.csproj.GenerateResource.Cache
+D:\04PI sample\C#\06.Velocity_mode\obj\Debug\DMC_01.exe
+D:\04PI sample\C#\06.Velocity_mode\obj\Debug\DMC_01.pdb
+E:\Kevin\All SAMPLE\C#\06.Velocity_mode\obj\Debug\DMC_01.exe
+E:\Kevin\All SAMPLE\C#\06.Velocity_mode\obj\Debug\DMC_01.pdb
+E:\Kevin\All SAMPLE\C#\06.Velocity_mode\obj\Debug\ResolveAssemblyReference.cache
+E:\Kevin\All SAMPLE\C#\06.Velocity_mode\obj\Debug\DMC_01.Form1.resources
+E:\Kevin\All SAMPLE\C#\06.Velocity_mode\obj\Debug\DMC_01.Properties.Resources.resources
+E:\Kevin\All SAMPLE\C#\06.Velocity_mode\obj\Debug\DMC_01.csproj.GenerateResource.Cache
+E:\Kevin\All SAMPLE\PCI_DMC_01\C#_1\06. Velocity_mode\obj\Debug\DMC_01.exe
+E:\Kevin\All SAMPLE\PCI_DMC_01\C#_1\06. Velocity_mode\obj\Debug\DMC_01.pdb
+E:\Kevin\All SAMPLE\PCI_DMC_01\C#_1\06. Velocity_mode\bin\Debug\DMC_01.exe
+E:\Kevin\All SAMPLE\PCI_DMC_01\C#_1\06. Velocity_mode\bin\Debug\DMC_01.pdb
+E:\Kevin\All SAMPLE\PCI_DMC_01\C#_1\06. Velocity_mode\obj\Debug\ResolveAssemblyReference.cache
+E:\Kevin\All SAMPLE\PCI_DMC_01\C#_1\06. Velocity_mode\obj\Debug\DMC_01.Form1.resources
+E:\Kevin\All SAMPLE\PCI_DMC_01\C#_1\06. Velocity_mode\obj\Debug\DMC_01.Properties.Resources.resources
+E:\Kevin\All SAMPLE\PCI_DMC_01\C#_1\06. Velocity_mode\obj\Debug\DMC_01.csproj.GenerateResource.Cache
+D:\Work\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.exe
+D:\Work\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.pdb
+D:\Work\samples_english\C#\06. Velocity_mode\bin\Debug\DMC_01.exe
+D:\Work\samples_english\C#\06. Velocity_mode\bin\Debug\DMC_01.pdb
+D:\Work\samples_english\C#\06. Velocity_mode\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.Form1.resources
+D:\Work\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.Properties.Resources.resources
+D:\Work\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.csproj.GenerateResource.Cache
+E:\Kevin\All SAMPLE\PCI_DMC_01\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.exe
+E:\Kevin\All SAMPLE\PCI_DMC_01\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.pdb
+E:\Kevin\All SAMPLE\PCI_DMC_01\samples_english\C#\06. Velocity_mode\bin\Debug\DMC_01.exe
+E:\Kevin\All SAMPLE\PCI_DMC_01\samples_english\C#\06. Velocity_mode\bin\Debug\DMC_01.pdb
+E:\Kevin\All SAMPLE\PCI_DMC_01\samples_english\C#\06. Velocity_mode\obj\Debug\ResolveAssemblyReference.cache
+E:\Kevin\All SAMPLE\PCI_DMC_01\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.Form1.resources
+E:\Kevin\All SAMPLE\PCI_DMC_01\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.Properties.Resources.resources
+E:\Kevin\All SAMPLE\PCI_DMC_01\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.csproj.GenerateResource.Cache
+D:\Work\DMC_NET\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.exe
+D:\Work\DMC_NET\samples_english\C#\06. Velocity_mode\obj\Debug\DMC_01.pdb
+E:\Kevin\All SAMPLE\PCI_DMC_合併\C#\06. Velocity_mode\obj\Debug\DMC_01.exe
+E:\Kevin\All SAMPLE\PCI_DMC_合併\C#\06. Velocity_mode\obj\Debug\DMC_01.pdb
